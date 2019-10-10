@@ -5,5 +5,3 @@ Lab 1: In my first lab I had to analyze a real world data set. I then had to cre
 Lab 2: In my second lab I had to analyze a real world data set and identify which variables were nominal, ordinal, interval and ratio.
 
 Lab 3: In my third lab, I had to perform inner joins, Full outer joins, left joins and right joins by hand using Excel.
-
-© 2019 GitHub, Inc.
